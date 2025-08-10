@@ -59,10 +59,6 @@ Feature engineering is the process of **transforming raw data into meaningful fe
 
 *Note: Results may vary slightly due to randomization.*
 
-## 🏢 **Internship Context**
-
-This project was developed as **Task 1** during my internship with **Code n Career**. The aim was to explore **feature engineering techniques** to boost predictive performance in machine learning workflows.
-
 
 ## 💡 **Key Learnings**
 
